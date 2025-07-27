@@ -1,16 +1,13 @@
-## Hi there 👋
 
-<!--
-**Yaslly-dev/Yaslly-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Yasmin Espigolani - Desenvolvedora em construção 🔨**
 
-Here are some ideas to get you started:
+📚 Análise e Desenvolvimento de Sistemas - Universidade Católica de Brasília
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Contato: yasespigolani@gmail.com
+
+🎯 Soft Skills: ágil aprendizagem, comunicabilidade, proatividade.
+
+🎯 Hard Skills: C, JAVA, JavaScript, metodologias ágeis, SwiftUI.
+<br>
+
+<img class = img src="https://github-readme-stats.vercel.app/api/top-langs?username=yaslly-dev&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi"/>
