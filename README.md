@@ -11,3 +11,10 @@
 <br>
 
 <img class = img src="https://github-readme-stats.vercel.app/api/top-langs?username=yaslly-dev&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi"/>
+
+***Tecnologias***
+
+<br>
+
+![C](https://img.shields.io/badge/-FFFFFF?style=for-the-badge&logo=C)
+![JavaScript](https://img.shields.io/badge/JavaScript-fafae5?style=for-the-badge&logo=javascript)
