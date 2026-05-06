@@ -11,7 +11,7 @@
 *   **ORMs:** Utilização de ferramentas modernas como Drizzle ORM para integração fluida entre banco e código.
 
 ### **Qualidade**
-*   **Testes Automatizados:** Especialista em Cypress para testes E2E em aplicações complexas.
+*   **Testes Automatizados:** Experiênvia em Cypress para testes E2E em aplicações complexas.
 
 ## 🚀 Projetos em Destaque
 
