@@ -1,5 +1,3 @@
-# Oie, eu sou a Yasmin Espigolani! 👋
-
 **Desenvolvedora e aspirante à Analista de Dados| Estudante de Análise e Desenvolvimento de Sistemas**
 
 ### **Frontend & Mobile**
