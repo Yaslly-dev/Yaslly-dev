@@ -1,20 +1,52 @@
+# Oie, eu sou a Yasmin Espigolani! 👋
 
-**Yasmin Espigolani - Desenvolvedora em construção 🔨**
+**Desenvolvedora e aspirante à Analista de Dados| Estudante de Análise e Desenvolvimento de Sistemas**
 
-📚 Análise e Desenvolvimento de Sistemas - Universidade Católica de Brasília
+### **Frontend & Mobile**
+*   **React & React Native:** Desenvolvimento de aplicações web e mobile utilizando o ecossistema Expo (SDK 54+).
+*   **TypeScript:** Uso constante para garantir código tipado, seguro e de fácil manutenção.
+*   **UI/UX:** Transformação de designs do Figma em interfaces funcionais com foco em usabilidade.
 
-💻 Contato: yasespigolani@gmail.com
+### **Backend & Database**
+*   **Node.js:** Construção de APIs eficientes.
+*   **Arquitetura de Dados:** Experiência em modelagem relacional (DER) e escrita de scripts SQL para MySQL e SQLite.
+*   **ORMs:** Utilização de ferramentas modernas como Drizzle ORM para integração fluida entre banco e código.
 
-🎯 Soft Skills: ágil aprendizagem, comunicabilidade, proatividade.
+### **Qualidade**
+*   **Testes Automatizados:** Especialista em Cypress para testes E2E em aplicações complexas.
 
-🎯 Hard Skills: C, JAVA, JavaScript, metodologias ágeis, SwiftUI.
-<br>
+## 🚀 Projetos em Destaque
 
-<img class = img src="https://github-readme-stats.vercel.app/api/top-langs?username=yaslly-dev&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi"/>
+### 🏗️ [BBTS Portal](https://github.com/Yaslly-dev/BBTS_Portal)
+Um portal corporativo completo desenvolvido em **React + TypeScript**. 
+*   **Destaque:** Implementação de módulos auditoria, curadoria de dados e gestão de fornecedores.
+*   **Banco de Dados:** Estrutura SQL integrada para suporte a processos administrativos.
 
-***Tecnologias***
+### 🎮 [CodeQuest](https://github.com/Yaslly-dev/CodeQuest)
+Projeto focado em comunidade, unindo gamificação e integração com Discord.
 
-<br>
+### 🌸 [Fiorire](https://github.com/Yaslly-dev/Fiorire)
+Projeto focado no domínio das tecnologias fundamentais da web **(HTML5 e CSS3)**. O Fiorire demonstra a capacidade de criar layouts elegantes e funcionais através de uma estrutura de arquivos organizada e semântica.
 
-![C](https://img.shields.io/badge/-FFFFFF?style=for-the-badge&logo=C)
-![JavaScript](https://img.shields.io/badge/JavaScript-fafae5?style=for-the-badge&logo=javascript)
+
+### 💻 Tech Stack
+
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![TypeScript](https://img.shields.io/badge/typescript-%23007acc.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=orange)
+![Cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)
+![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=DBC4A0)
+
+## 🧠 Competências & Diferenciais
+*   **Resolução de Problemas:** Experiência real diagnosticando falhas e otimizando processos.
+*   **Documentação Técnica:** Familiaridade com normas ABNT e escrita técnica para projetos acadêmicos e profissionais.
+*   **Trabalho em Equipe:** Atuação ativa em grupos de desenvolvimento, colaborando com revisões de código e lógica.
+*   **Comunicação Assertiva: Capacidade de traduzir conceitos técnicos complexos para stakeholders e usuários finais, desenvolvida através da experiência como líder de equipe na Residência Tecnológica.**
+
+---
+### Vamos nos conectar?
+📫 **E-mail:** yasespigolani@gmail.com
+🔗 **LinkedIn:** in/yasmin-gabrielly
+
+"Transformando lógica em soluções e café em código." ☕✨
