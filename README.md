@@ -1,4 +1,4 @@
-**Desenvolvedora e aspirante à Analista de Dados| Estudante de Análise e Desenvolvimento de Sistemas**
+**Desenvolvedora e aspirante à Analista de Dados**
 
 ### **Frontend & Mobile**
 *   **React & React Native:** Desenvolvimento de aplicações web e mobile utilizando o ecossistema Expo (SDK 54+).
